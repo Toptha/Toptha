@@ -127,7 +127,7 @@ export default function Contact() {
                     name="name"
                     value={formData.name}
                     onChange={handleChange}
-                    placeholder="John Doe"
+                    placeholder="Name"
                     required
                     className="bg-gray-900/50 border-gray-700 focus:border-primary"
                   />
@@ -143,7 +143,7 @@ export default function Contact() {
                     type="email"
                     value={formData.email}
                     onChange={handleChange}
-                    placeholder="john@example.com"
+                    placeholder="something@example.com"
                     required
                     className="bg-gray-900/50 border-gray-700 focus:border-primary"
                   />
