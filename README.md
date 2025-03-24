@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **learning more about Javascript**
 
-- 👨‍💻 All of my projects are available ([preethams.vercel.app](https://preethams.vercel.app/))
+- 👨‍💻 All of my projects are available [here](https://preethams.vercel.app/)
 
 - 💬 Ask me about **Java, C++, HTML, CSS, JavaScript**
 
