@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Preetham</h1>
-- 🔭 I’m currently a student at **Christ University**
+- 🔭 I’m currently a student at Christ University
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **any sort of Front-End Development Projeects**
+- 👯 I’m looking to collaborate on **any sort of Front-End Development Projects**
 
 - 🤝 I’m looking for help with **learning more about Javascript**
 
-- 👨‍💻 All of my projects are available at [preethams.vercel.app](preethams.vercel.app)
+- 👨‍💻 All of my projects are available ([preethams.vercel.app](https://preethams.vercel.app/))
 
 - 💬 Ask me about **Java, C++, HTML, CSS, JavaScript**
 
