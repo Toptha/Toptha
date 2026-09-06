@@ -64,12 +64,6 @@ A class-conditional PINN for predicting vehicle trajectories in heterogeneous ur
 
 ---
 
-### GitHub Stats
-
-<!-- Add your preferred GitHub stats cards here -->
-
----
-
 ### Outside the IDE
 
 When I'm not arguing with a model over why its loss isn't decreasing, I'm probably:
