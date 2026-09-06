@@ -1,25 +1,97 @@
-<h1 align="center">Hi 👋, I'm Preetham</h1>
-- 🔭 I’m currently a student at Christ University
+# Hey, I'm Preetham
 
-- 🌱 I’m currently learning **Next.js**
+```python
+class Preetham:
+    role = "AI/ML Developer"
+    degree = "BCA @ CHRIST University"
+    
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "RAG",
+        "Neural Networks",
+        "Physics-Informed Neural Networks"
+    ]
 
-- 👯 I’m looking to collaborate on **any sort of Front-End Development Projects**
+    currently_building = "things that probably need more GPU than I have"
+```
 
-- 🤝 I’m looking for help with **learning more about Javascript**
+I'm a developer who likes building things that are **slightly more complicated than they need to be**.
 
-- 👨‍💻 All of my projects are available [here](https://preethams.vercel.app/)
+My main interests are AI/ML, especially **RAG systems, neural networks, and Physics-Informed Neural Networks (PINNs)**. I also enjoy building the software around those models — APIs, interfaces, data pipelines, cloud infrastructure, and whatever else keeps the project from exploding.
 
-- 💬 Ask me about **Java, C++, HTML, CSS, JavaScript**
+### Things I Build
 
-- 📫 How to reach me **vishalsaacharya@gmail.com**
+* AI / ML systems
+* Physics-Informed Neural Networks
+* RAG & LLM applications
+* Deep Learning & NLP
+* ML for real-world systems
+* Cloud & data infrastructure
+* Full-stack applications
 
-- ⚡ Fun fact **I sleep a lot😔**
+### Some Things I've Built
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/preetham s aacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preetham s aacharya" height="30" width="40" /></a>
-<a href="https://instagram.com/preeaachaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="preeaachaya" height="30" width="40" /></a>
-</p>
+**[Mnemosyne](https://github.com/Toptha/Memosyne)**
+A multi-source research & retrieval platform because apparently reading papers manually wasn't painful enough.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+`Python` `RAG` `FAISS` `NLP` `LLMs`
+
+**[Nuclear Secondary-Loop Anomaly Detection](https://github.com/Toptha/Nuclear-Secondary-loop-Anomaly-Dectection)**
+Using physics-informed neural networks to detect anomalies in nuclear reactor systems.
+
+`Python` `PyTorch` `PINNs` `SciPy` `NumPy`
+
+**[Vehicle Trajectory Modeling](https://github.com/Toptha/A-Class-Conditional-PINN-for-Vehicle-Trajectory-Modeling-in-Heterogeneous-Urban-Traffic)**
+A class-conditional PINN for predicting vehicle trajectories in heterogeneous urban traffic.
+
+`Python` `PyTorch` `PINNs` `Pandas` `NumPy`
+
+### My Toolbox
+
+**Languages**
+`Python` `Java` `C` `C++` `SQL` `TypeScript`
+
+**AI / ML**
+`PyTorch` `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `OpenCV` `spaCy`
+
+**AI Stuff**
+`RAG` `LLMs` `NLP` `CNNs` `Deep Learning` `PINNs`
+
+**Development**
+`React` `Next.js` `Docker` `AWS` `Git` `GitHub`
+
+---
+
+### GitHub Stats
+
+<!-- Add your preferred GitHub stats cards here -->
+
+---
+
+### Outside the IDE
+
+When I'm not arguing with a model over why its loss isn't decreasing, I'm probably:
+
+* Thinking about motorcycles
+* Rewatching Star Wars
+* Breaking something and calling it "debugging"
+* Running code that definitely worked five minutes ago
+
+### Find Me
+
+[LinkedIn](https://www.linkedin.com/in/preeaacharya) · [Email](preeaacharya@ieee.org)
+
+---
+
+```text
+$ git status
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean.
+
+...for now.
+```
